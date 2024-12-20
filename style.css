@@ -10,7 +10,7 @@ body {
     background: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url(../sju-log.png);
     background-position: center bottom;
     background-repeat: no-repeat;
-    background-size: 60%;
+    background-size: 400px 400px;
 }
 .header 
 {
